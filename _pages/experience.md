@@ -11,28 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Huazhong University of Science and Technology(Wuhan), 2020 - 2024
+* M.Phil. in Hong Kong University of Science and Technology(Guangzhou), 2024 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2023/07-2023/12: Intern(FPGA Engineer)
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Senior Engineer Xiao Chao
 
-* Fall 2015: Research Assistant
+* 2024/03-2024/07: Intern(FPGA Engineer)
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Senior Engineer Zhou Tao
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
