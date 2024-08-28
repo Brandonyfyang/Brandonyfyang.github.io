@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2023/07-2023/12: Intern(FPGA Engineer)
-  * Github University
+  * [Shanshui Optoelectronic Technology Co., Ltd.(Wuhan)](http://www.ssdx.com.cn/)
   * Duties included: Tagging issues
   * Supervisor: Senior Engineer Xiao Chao
 
