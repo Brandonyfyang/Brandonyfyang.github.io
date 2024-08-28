@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Publications and Patents"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-#Publications
+Publications
 ======
 Looking Forward to it...
 
-##Patents
+Patents
 ======
  • ZhaoxiaZheng,YifanYang,ZengbaoXing,GangZheng,”Implementation of an ECG classification method based on CNN”(in application)
