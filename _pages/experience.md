@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<font size=4 >Education</font>
 ======
 * B.Eng. in Huazhong University of Science and Technology(Wuhan), 2020 - 2024
 * M.Phil. in Hong Kong University of Science and Technology(Guangzhou), 2024 - present
 
-Work experience
+<font size=4 >Work experience</font>
 ======
 * 2023/07-2023/12: Intern(FPGA Engineer)
   * [Shanshui Optoelectronic Technology Co., Ltd.(Wuhan)](http://www.ssdx.com.cn/)
