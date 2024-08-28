@@ -15,7 +15,7 @@ Awards and Honors
  • Excellent Award of National Undergraduate Embedded Chip Design Competition (2022)<br />
  • Full Postgraduate Scholarship, [HKUST(GZ)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)(2024)
 
-Experiences
+Research Intern
 ======
 [Shanshui Optoelectronic Technology Co., Ltd.(Wuhan)](http://www.ssdx.com.cn/)-FPGA Engineer,2023/07–2023/12<br />
 [Viestar Medical Technology Co., Ltd.(Wuhan)](https://www.biopsee.cn/)-FPGA Engineer,2024/03-2024/07
