@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yifan Yang"
-  avatar           : "photo4.jpg"
+  avatar           : "photo4.png"
   bio              : "MPhil student at HKUST(GZ)"
   location         : "Guangzhou,China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
