@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Senior Engineer Xiao Chao
 
 * 2024/03-2024/07: Intern(FPGA Engineer)
-  * Github University
+  * [Viestar Medical Technology Co., Ltd.(Wuhan)](https://www.biopsee.cn/)
   * Duties included: Merging pull requests
   * Supervisor: Senior Engineer Zhou Tao
   
