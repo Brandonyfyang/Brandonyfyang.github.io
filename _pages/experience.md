@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-<font size=3.5 >Education</font>
+Education
 ======
 * B.Eng. in Huazhong University of Science and Technology(Wuhan), 2020 - 2024
 * M.Phil. in Hong Kong University of Science and Technology(Guangzhou), 2024 - present
 
-<font size=3.5 >Work experience</font>
+Work experience
 ======
 * 2023/07-2023/12: Intern(FPGA Engineer)
   * [Shanshui Optoelectronic Technology Co., Ltd.(Wuhan)](http://www.ssdx.com.cn/)
-  * Duties included: Tagging issues
+  * Duties included: Ethernet Transmission Algorithms
   * Supervisor: Senior Engineer Xiao Chao
 
 * 2024/03-2024/07: Intern(FPGA Engineer)
   * [Viestar Medical Technology Co., Ltd.(Wuhan)](https://www.biopsee.cn/)
-  * Duties included: Merging pull requests
+  * Duties included: Image Processing Algorithms
   * Supervisor: Senior Engineer Zhou Tao
   
 
