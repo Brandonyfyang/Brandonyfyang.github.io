@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Huazhong University of Science and Technology(Wuhan), 2020 - 2024
+  * GPA:3.88/4.00
 * M.Phil. in Hong Kong University of Science and Technology(Guangzhou), 2024 - present
 
 Work experience
