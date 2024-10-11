@@ -24,7 +24,7 @@ Education
 
 Curriculam Vitae
 ======
- • You can find my [CV](../assets/cvyyf.pdf) here.
+ • You can find my [CV](../assets/CV_yyf.pdf) here.
 
 
 
