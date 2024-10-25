@@ -7,8 +7,8 @@ author_profile: true
 
 Publications
 ======
-Looking Forward to it...
+ • Y. Yang, Z. Zheng, "ECG signal classification algorithm and circuit design based on deep learning," 2024 6th International Conference on Frontiers Technology of Information and Computer (ICFTIC), Qingdao, China, 2024
 
 Patents
 ======
- • ZhaoxiaZheng,YifanYang,ZengbaoXing,GangZheng,”Implementation of an ECG classification method based on CNN”(in application)
+
