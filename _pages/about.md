@@ -18,7 +18,7 @@ Awards and Honors
 
 Curriculam Vitae
 ======
- • You can find my [CV](../assets/CV_yyf.pdf) here.
+ • You can find my [CV](../assets/Brandon_sCV(2).pdf) here.
 
 
 
