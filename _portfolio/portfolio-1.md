@@ -4,5 +4,5 @@ excerpt: "<br/><img src='/images/yyfphoto1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This photo is taken by my girlfriend in Oct.2024 in Shanxi Province when she was taking a trip with me.
 
