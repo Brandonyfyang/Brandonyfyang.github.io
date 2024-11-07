@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Yifan Yang is currently a MPhil student at the Microelectronics Thrust, Function Hub of the [HKUST(GZ)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn), advised by [Prof. Jiayi HUANG](https://jyhuang91.github.io/) and [Prof. Hongwu JIANG](https://hongwujiang.github.io/). 
-I received my B.Eng in IC Design and Systems in the [Department of IC](https://ic.hust.edu.cn/index.htm) from the [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, under the supervision of [Prof. Zhaoxia Zheng](https://ic.hust.edu.cn/info/1267/2285.htm).
+I received my B.Eng in IC Design and Systems in the [Department of IC](https://ic.hust.edu.cn/index.htm) from the [Huazhong University of Science and Technology](https://www.hust.edu.cn/),under the supervision of [Prof. Zhaoxia Zheng](https://ic.hust.edu.cn/info/1267/2285.htm).
 
 Awards and Honors
 ======
